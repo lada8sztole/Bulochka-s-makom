@@ -1,0 +1,6 @@
+print('#'*9)
+print('#\t\t#\n'*3, end='')
+print('#'*9, end='\n\n')
+print('#\t\t#\n'*2, end='')
+print('#'*9)
+print('#\t\t#\n'*2)
